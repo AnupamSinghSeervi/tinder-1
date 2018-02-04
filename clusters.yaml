@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: gamey34-hasura
+  data: null
+  kubeContext: gamey34
+  name: gamey34
